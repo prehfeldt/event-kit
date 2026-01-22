@@ -63,6 +63,9 @@ $now = new DateTime();
                     </tr>
                 <?php endforeach; ?>
             </tbody>
-        </table>
+	</table>
+
+        <br>
+        <a href="">Public Hollidays &gt;</a>
     </body>
 </html>
