@@ -66,6 +66,6 @@ $now = new DateTime();
 	</table>
 
         <br>
-        <a href="">Public Hollidays &gt;</a>
+        <a href="ph.php">Public Hollidays &gt;</a>
     </body>
 </html>
